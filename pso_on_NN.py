@@ -100,7 +100,7 @@ def forward_prop(params):
     return loss
 
 # Executes forward propagation function in the entire swarm - taken directly from PySwarms documentation
-# Nothing edited, just runs my forward_prop function on the swarm size
+# Nothing edited, just runs my forward_prop function on the swarm size (30)
 
 def f(x):
     """Higher-level method to do forward_prop in the
